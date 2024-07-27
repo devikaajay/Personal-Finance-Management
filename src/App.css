@@ -1,0 +1,15 @@
+/* App.css */
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("https://img.freepik.com/free-vector/purple-bokeh-vector-digital-business-background_53876-110566.jpg?t=st=1722001626~exp=1722005226~hmac=185ea8ec0d51583563db3b6c0ff99699ae5a0787182366b264fd33f8e0720f9f&w=996");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #f5f5f5; /* Fallback color */
+  height: 100vh;
+}
+
+html, #root {
+  height: 100%;
+}
